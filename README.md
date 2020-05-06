@@ -8,3 +8,5 @@ by Z. Stanley, A. Adcroft, S. D. Bachman, F. Castruccio, I. Grooms, and W. Kleib
    "0013_01_05_1degree_c.mat" to fit within github's file size restrictions 
 4. The various Matlab scripts perform various diagnostic analyses of the data, as described in the paper.
 5. All files are copyright Z. Stanley.
+
+[![DOI](https://zenodo.org/badge/261837922.svg)](https://zenodo.org/badge/latestdoi/261837922)
