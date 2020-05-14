@@ -8,5 +8,3 @@ by Z. Stanley,  I. Grooms, and W. Kleiber, S. D. Bachman, F. Castruccio, A. Adcr
    "0013_01_05_1degree_c.mat" to fit within github's file size restrictions 
 4. The various Matlab scripts perform various diagnostic analyses of the data, as described in the paper.
 5. EOF.m is copyright David M. Kaplan. All other files are copyright Z. Stanley.
-
-[![DOI](https://zenodo.org/badge/261837922.svg)](https://zenodo.org/badge/latestdoi/261837922)
